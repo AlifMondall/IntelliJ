@@ -1,4 +1,4 @@
-package com.ip.duplicate;
+package com.ip.programs;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,9 +1,10 @@
-package com.ip.duplicatetest;
+package com.ip.testcasses;
 
 
-import com.ip.duplicate.Duplicates;
-import org.testng.Assert;
-import org.testng.annotations.Test;
+import com.ip.programs.Duplicates;
+import org.junit.Assert;
+import org.junit.Test;
+
 
 public class DuplicatesTest {
     @Test
